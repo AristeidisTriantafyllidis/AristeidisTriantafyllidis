@@ -15,4 +15,4 @@
 ---
 
 ### 📂 Featured Project
-* **[DevReady-Project](https://github.com/AristeidisTriantafyllidis/DevReady-Project)** - Call Center inspired by Aircall. View, browse, and archive call activity from a clean, responsive interface.
+* **[DevReady-Project](https://github.com/AristeidisTriantafyllidis/DevReady-Project)** 
