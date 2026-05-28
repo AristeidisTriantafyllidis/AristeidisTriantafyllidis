@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AristeidisTriantafyllidis/AristeidisTriantafyllidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 React Junior Frontend Developer turning UI layouts into responsive, interactive web applications.  <br/>
+📚 Passionate about continuous learning.<br/>
+💡 Passionate about teamwork and high-quality code, looking to accelerate my development journey by contributing and learning within a dynamic tech team.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚛️ **React**
+* 🟨 **JavaScript**
+* 🟧 **HTML5**
+* 🟦 **CSS3**
+* 🗲 **Git & GitHub**
+
+---
+
+### 📂 Featured Project
+* **[DevReady-Project](https://github.com/AristeidisTriantafyllidis/DevReady-Project)** - Call Center inspired by Aircall. View, browse, and archive call activity from a clean, responsive interface.
