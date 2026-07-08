@@ -2,15 +2,16 @@
 
 💻 React Junior Frontend Developer turning UI layouts into responsive, interactive web applications.  <br/>
 📚 Passionate about continuous learning.<br/>
-💡 Passionate about teamwork and high-quality code, looking to accelerate my development journey by contributing and learning within a dynamic tech team.
+🧩 Detail-oriented and committed to writing clean, maintainable code while continuously growing as a developer.
 
 ### 🛠️ Tech Stack & Tools
 
 * ⚛️ **React**
-* 🟨 **JavaScript**
-* 🟧 **HTML5**
-* 🟦 **CSS3**
-* 🗲 **Git & GitHub**
+* 🟨 **JavaScript (ES6+)**
+*  🌐 REST APIs 
+* 🧪 Jest / React Testing Library
+* 🗲 **Git**
+* ⚙️ GitHub Actions (CI/CD)
 
 ---
 
