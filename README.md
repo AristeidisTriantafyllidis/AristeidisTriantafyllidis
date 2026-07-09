@@ -1,11 +1,9 @@
 ## Hey 👋
 
-Frontend Engineer focused on building responsive, interactive web applications with React. Passionate about turning designs
-into polished user experiences.
+Frontend Engineer focused on building responsive, interactive web applications with React. Passionate about turning designs into polished user experiences.
 
-I care about writing clean, maintainable code, continuous learning, and getting the details right. Always looking to grow —
-whether that's picking up new tools, improving testing practices, or understanding the bigger picture behind what I'm
-building.
+I care about writing clean, maintainable code, continuous learning, and getting the details right. Always looking to grow,
+whether that's picking up new tools, improving testing practices, or understanding the bigger picture behind what I'm building.
 
 ### Tech Stack
 
