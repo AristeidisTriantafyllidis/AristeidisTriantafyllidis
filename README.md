@@ -1,20 +1,19 @@
-## Hi there 👋
+## Hey 👋
 
-💻 React Junior Frontend Developer turning UI layouts into responsive, interactive web applications.  <br/>
-📚 Passionate about continuous learning.<br/>
-🧩 Detail-oriented and committed to writing clean, maintainable code while continuously growing as a developer.
+Frontend Engineer focused on building responsive, interactive web applications with React. Passionate about turning designs
+into polished user experiences.
 
-### 🛠️ Tech Stack & Tools
+I care about writing clean, maintainable code, continuous learning, and getting the details right. Always looking to grow —
+whether that's picking up new tools, improving testing practices, or understanding the bigger picture behind what I'm
+building.
 
-* ⚛️ **React**
-* 🟨 **JavaScript (ES6+)**
-*  🌐 REST APIs 
-* 🧪 Jest / React Testing Library
-* 🗲 **Git**
-* ⚙️ GitHub Actions (CI/CD)
+### Tech Stack
 
----
+React · JavaScript (ES6+) · REST APIs · Jest · React Testing Library · Git · GitHub Actions
 
-### 📂 Featured Project
-* **[Call Center](https://github.com/AristeidisTriantafyllidis/DevReady-Project)** 
-* **[Space-X launches](https://github.com/AristeidisTriantafyllidis/Space-X-Launches.git)** 
+### Featured Projects
+- **[Call Center](https://github.com/AristeidisTriantafyllidis/DevReady-Project)**
+- **[SpaceX Launches](https://github.com/AristeidisTriantafyllidis/Space-X-Launches)**
+
+### How to reach me 📫
+[Portfolio](https://aristeidis.vercel.app/)· [LinkedIn](https://linkedin.com/in/aristeidis-triantafyllidis) · [GitHub](https://github.com/AristeidisTriantafyllidis)
