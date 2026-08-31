@@ -10,6 +10,8 @@ whether that's picking up new tools, improving testing practices, or understandi
 React · JavaScript (ES6+) · REST APIs · Jest · React Testing Library · Git · GitHub Actions
 
 ### Featured Projects
+
+- **[Crypto Market Dashboard](https://github.com/AristeidisTriantafyllidis/Crypto-Market-Dashboard)**
 - **[Call Center](https://github.com/AristeidisTriantafyllidis/DevReady-Project)**
 - **[SpaceX Launches](https://github.com/AristeidisTriantafyllidis/Space-X-Launches)**
 
